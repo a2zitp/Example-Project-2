@@ -3,3 +3,7 @@ function setup() {
   console.log("hello");
   console.log("new idea");
 }
+
+function draw() {
+  
+}
